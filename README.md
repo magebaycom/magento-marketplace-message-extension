@@ -21,4 +21,6 @@ This extension is very useful for Marketplace websites. It allows the Vendor to 
 - easy to installing and configure
 - user-friendly interface
 
+If you have any question or got any problem with this feature then you can please create new issues.
+
 Related plugin: [Magento Marketplace Advanced Report Extension](https://github.com/magebaycom/magento-marketplace-advanced-report-extension)
